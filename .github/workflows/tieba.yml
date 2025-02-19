@@ -1,6 +1,6 @@
 # 每天6:30执行
 
-name: TiebaSignIn-swswlx-12-20
+name: TiebaSignIn-swswlx-02-19
 
 on:
    push:
